@@ -2,51 +2,76 @@
 - AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Repository입니다.  
 - 기본적인 틀을 제공하며, 파일이나 폴더를 수정/업로드하여 사용합니다.
 ---
-레포구조:  
+레포구조:
 ```
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
-│   │   ├── .ipynb
+│   │   ├── Quest01.ipynb
 │   │   └── README.md
 │   ├── Quest02
-│   │   ├── .ipynb
+│   │   ├── Quest02.ipynb
 │   │   └── README.md
 │   ├── Quest03
-│   │   ├── .ipynb
+│   │   ├── Quest03.ipynb
 │   │   └── README.md
 │   ├── Quest04
-│   │   ├── .ipynb
+│   │   ├── Quest04.ipynb
 │   │   └── README.md
 │   └── Quest05
-│       ├── .ipynb
+│       ├── Quest05.ipynb
+│       └── README.md
+├── GoingDeeper
+│   ├── GD01
+│   │   ├── GD01.ipynb
+│   │   └── README.md
+│   ├── GD02
+│   │   ├── GD02.ipynb
+│   │   └── README.md
+│   ├── GD03
+│   │   ├── GD03.ipynb
+│   │   └── README.md
+│   ├── GD04
+│   │   ├── GD04.ipynb
+│   │   └── README.md
+│   ├── GD05
+│   │   ├── GD05.ipynb
+│   │   └── README.md
+│   ├── GD06
+│   │   ├── GD06.ipynb
+│   │   └── README.md
+│   ├── GD07
+│   │   ├── GD07.ipynb
+│   │   └── README.md
+│   ├── GD08
+│   │   ├── GD08.ipynb
+│   │   └── README.md
+│   └── GD09
+│       ├── GD09.ipynb
 │       └── README.md
 └── Exploration
       ├── Ex01
-      │   ├── .ipynb
+      │   ├── Ex01.ipynb
       │   └── README.md
       ├── Ex02
-      │   ├── .ipynb
+      │   ├── Ex02.ipynb
       │   └── README.md
       ├── Ex03
-      │   ├── .ipynb
+      │   ├── Ex03.ipynb
       │   └── README.md
       ├── Ex04
-      │   ├── .ipynb
+      │   ├── Ex04.ipynb
       │   └── README.md
       ├── Ex05
-      │   ├── .ipynb
+      │   ├── Ex05.ipynb
       │   └── README.md
       ├── Ex06
-      │   ├── .ipynb
+      │   ├── Ex06.ipynb
       │   └── README.md
       ├── Ex07
-      │   ├── .ipynb
+      │   ├── Ex07.ipynb
       │   └── README.md
-      ├── Ex08
-      │   ├── .ipynb
-      │   └── README.md
-      └── Ex09
-            ├── .ipynb
-            └── README.md
+      └── Ex08
+          ├── Ex08.ipynb
+          └── README.md
 ```
