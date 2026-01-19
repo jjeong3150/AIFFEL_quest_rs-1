@@ -8,9 +8,9 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부  
           - 얼굴 각도가 변하더라도 고양이 수염의 위치가 잘 적용되었다.
-          - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review05.png)
+          - ![화면](images/review05.png)
           - 이미지에서 얼굴의 크기가 달라지면 수염의 크기도 조절되었다.  
-          - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review06.png)
+          - ![화면](images/review06.png)
           
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -21,7 +21,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 이미지가 오른쪽, 아래쪽으로 넘어가는 경우도 예외처리를 한 부분이 인상적이었다. (지나칠 수 있는 부분)
-        - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review07.png)
+        - ![화면](images/review07.png)
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -42,7 +42,7 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 코드가 바로 동작할 수 있도록 sticker_app 을 만들었다. 최종 결과물에서는 이미지만 입력하면 출력되도록 구성되어있어 보기에 깔끔했다.
         - [링크](https://github.com/jjeong3150/AIFFEL_quest_rs/blob/main/Exploration/Ex01/camera_sticker/final_sticker_app.ipynb)
-        - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review08.png)
+        - ![화면](images/review08.png)
 
 
 # 회고(참고 링크 및 코드 개선)

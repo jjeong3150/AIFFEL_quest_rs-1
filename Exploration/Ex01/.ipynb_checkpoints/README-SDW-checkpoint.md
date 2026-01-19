@@ -9,9 +9,9 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
           - 고양이 수염 사이즈 수동 변경, 흰색 배경 제거 코드를 적용하였다.
           - 얼굴 각도에 따른 분석은 적용되지 않았다.
-          - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review01.png)
-          - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review02.png)
-          - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review03.png)
+          - ![화면](images/review01.png)
+          - ![화면](images/review02.png)
+          - ![화면](images/review03.png)
           
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -22,7 +22,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 코의 위치를 정확하게 잡은 부분
-        - ![화면](~work/AIFFEL_quest_rs/Exploration/Ex01/images/review04.png)
+        - ![화면](images/review04.png)
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
